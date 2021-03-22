@@ -2,7 +2,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-    href: "https://finance.zcore.network",
+    href: "https://swap.peps.today",
   },
   {
     label: "Trade",
@@ -10,18 +10,18 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.zcore.network/#/swap",
+        href: "https://swap.peps.today/x/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.zcore.network/#/pool",
+        href: "swap.peps.today/x/#/pool",
       },
     ],
   },
   {
     label: "Farms",
     icon: "FarmIcon",
-    href: "https://finance.zcore.network/farms",
+    href: "https://swap.peps.today/farms",
   },
   {
     label: "Pools",
@@ -99,11 +99,11 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/PEPS-Project/",
       },
       {
         label: 'Docs',
-        href: 'https://zcore-network.gitbook.io/zcore-finance/',
+        href: 'http://peps.today/',
       },
     ],
   },
@@ -116,7 +116,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/ZCoreMiners",
+        href: "https://telegram.peps.today",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -160,7 +160,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/ZCoreCrypto",
+        href: "https://telegram.peps.today",
       },
       // {
       //   label: "Whale Alert",
@@ -171,7 +171,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/ZCoreCrypto",
+    href: "https://twitter.com/projectpeps",
   },
 ];
 
