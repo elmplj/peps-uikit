@@ -1974,7 +1974,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TwitterIcon: Icon$X,
     AuditIcon: Icon$Y,
     GooseIcon: Icon$Z,
-    ZCoreIcon: Icon$_,
+    PepperIcon: Icon$_,
     ExchangeIcon: Icon$$,
     GitbookIcon: Icon$10,
     GithubIcon: Icon$11,
@@ -2018,7 +2018,7 @@ var links = [
     {
         label: "Home",
         icon: "HomeIcon",
-        href: "https://finance.zcore.network",
+        href: "https://swap.peps.today",
     },
     {
         label: "Trade",
@@ -2026,18 +2026,18 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.zcore.network/#/swap",
+                href: "https://swap.peps.today/x/#/swap",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.zcore.network/#/pool",
+                href: "https://swap.peps.today/x/#/pool",
             },
         ],
     },
     {
         label: "Farms",
         icon: "FarmIcon",
-        href: "https://finance.zcore.network/farms",
+        href: "https://swap.peps.today/farms",
     },
     {
         label: "Pools",
@@ -2115,11 +2115,11 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/PEPS-Project/",
             },
             {
                 label: 'Docs',
-                href: 'https://zcore-network.gitbook.io/zcore-finance/',
+                href: 'http://peps.today/',
             },
         ],
     },
@@ -2131,7 +2131,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/ZCoreMiners",
+                href: "https://telegram.peps.today",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2175,14 +2175,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/ZCoreCrypto",
+                href: "https://telegram.peps.today",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ZCoreCrypto",
+        href: "https://twitter.com/projectpeps",
     },
 ];
 var MENU_HEIGHT = 64;
