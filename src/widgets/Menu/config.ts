@@ -116,8 +116,33 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://telegram.peps.today",
+        href: "http://telegram.peps.today",
       },
+      {
+        label: "Türkiye",
+        href: "https://t.me/joinchat/HIHuKD1r8mRmM2Ey",
+      },
+      {
+        label: "Español",
+        href: "https://t.me/joinchat/_0PYTphkKYhmNzBh",
+      },
+      {
+        label: "Português",
+        href: "https://t.me/Peps_BR",
+      },
+      {
+        label: "Italiano",
+        href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
+      },
+      {
+        label: "India",
+        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
+      },
+      {
+        label: "Africa",
+        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
+      },
+      
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
@@ -158,10 +183,6 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://telegram.peps.today",
-      },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
